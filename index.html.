@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>FitRevive</title>
+</head>
+<body>
+  <h1>Welcome to FitRevive</h1>
+
+  <img src="fitrevive-images/images/trishna.png" width="300">
+  <img src="fitrevive-images/images/team.jpeg" width="300">
+
+</body>
+</html>
